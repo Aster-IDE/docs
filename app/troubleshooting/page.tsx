@@ -51,7 +51,7 @@ export default function TroubleshootingPage() {
                   <ol className="text-sm text-muted-foreground space-y-2 list-decimal list-inside">
                     <li>Click &quot;More info&quot; on the Windows Defender dialog</li>
                     <li>Click &quot;Run anyway&quot; to proceed with launching AsterIDE</li>
-                    <li>This happens because AsterIDE is yet signed with a Windows certificate, signing would cost $70 for just an OSS Signature, and I do not havr that kind of money.</li>
+                    <li>This happens because AsterIDE is not signed with a Windows certificate, signing would cost $70 for just an OSS Signature, and I do not havr that kind of money.</li>
                   </ol>
                 </div>
               </div>
