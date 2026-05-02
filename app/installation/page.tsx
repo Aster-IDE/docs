@@ -284,7 +284,7 @@ export default async function InstallationPage() {
                 <h3 className="font-medium">For Developers</h3>
               </div>
               <p className="text-sm text-muted-foreground mb-4">
-                If you want to contribute or build AsterIDE from source, you&apos;ll need Rust and Node.js installed.
+                If you want to contribute or build AsterIDE from source, you&apos;ll need Rust and optionally Nix installed.
               </p>
               <div className="bg-muted rounded-lg p-4 mb-4">
                 <pre className="text-sm">
